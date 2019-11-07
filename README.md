@@ -56,7 +56,9 @@ EOF
 source ~/.bashrc
 ```
 * [dep](https://github.com/golang/dep)
-
+```
+sudo curl https://raw.githubusercontent.com/golang/dep/master/install.sh | sh
+```
 # Device Setup
 
 ## Install dependencies
