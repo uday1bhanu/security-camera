@@ -61,6 +61,12 @@ sudo curl https://raw.githubusercontent.com/golang/dep/master/install.sh | sh
 ```
 # Device Setup
 
+test cam
+
+```
+raspistill -o cam.jpg
+```
+
 ## Install dependencies
 
 
